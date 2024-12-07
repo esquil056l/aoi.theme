@@ -1,0 +1,8 @@
+{
+  "name": "Aoi.js Enhanced Theme",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Seu Nome",
+  "description": "Adiciona um tema com suporte aprimorado para Aoi.js, melhorando a aparência de comandos, variáveis e funções.",
+  "icon": "icon.png"
+}
